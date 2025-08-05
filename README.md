@@ -9,7 +9,7 @@ Each folder corresponds to a chapter of the book. This repository is a personal 
 - [x] Chapter 1: Hello, Cargo!
 - [x] Chapter 2: Guessing Game
 - [x] Chapter 12: Minigrep
-- [ ] Chapter 13: TBD
+- [x] Chapter 13: TBD
 - [ ] Chapter 14: TBD
 
 ## How to Run
