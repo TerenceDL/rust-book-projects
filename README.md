@@ -11,7 +11,8 @@ Each folder corresponds to a chapter of the book. This repository is a personal 
 - [x] Chapter 12: Minigrep
 - [x] Chapter 13: Iterators and Closures 
 - [x] Chapter 14: Cargo and Crates.io
-- [ ] Chatper 15: Smart Pointers
+- [x] Chatper 15: Smart Pointers
+- [ ] Chapter 16: Fearless Concurrency
 
 ## How to Run
 
