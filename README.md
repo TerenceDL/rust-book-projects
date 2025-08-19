@@ -12,7 +12,9 @@ Each folder corresponds to a chapter of the book. This repository is a personal 
 - [x] Chapter 13: Iterators and Closures 
 - [x] Chapter 14: Cargo and Crates.io
 - [x] Chatper 15: Smart Pointers
-- [ ] Chapter 16: Fearless Concurrency
+- [x] Chapter 16: Fearless Concurrency
+- [x] Chatper 17: Fundamentals of Asynchronus
+- [ ] Chatper 18: Object Oriented Programming
 
 ## How to Run
 
