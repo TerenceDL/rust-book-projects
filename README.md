@@ -14,7 +14,8 @@ Each folder corresponds to a chapter of the book. This repository is a personal 
 - [x] Chatper 15: Smart Pointers
 - [x] Chapter 16: Fearless Concurrency
 - [x] Chatper 17: Fundamentals of Asynchronus
-- [ ] Chatper 18: Object Oriented Programming
+- [x] Chatper 18: Object Oriented Programming
+- [x] Chapter 21: Multithreaded Web Server
 
 ## How to Run
 
